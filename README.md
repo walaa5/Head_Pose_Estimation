@@ -9,4 +9,3 @@ Predict the three angles of head_pose using mediapipe and machine Learning.
 * Sklearn
 
 # Testing on Video
-https://drive.google.com/file/d/1HM6rcaVNIbQGg5PhLO3JTSve9JFDwHtt/view?usp=sharing
